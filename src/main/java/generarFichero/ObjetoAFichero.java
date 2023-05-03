@@ -16,7 +16,7 @@ import java.util.Scanner;
  *
  * @author fer
  */
-public class ListaObjetoAFicheroVEHICULOS {
+public class ObjetoAFichero {
     
 //    public static List<Vehiculo> generarListaFichero(String nomFichero, String separador) {
 //
