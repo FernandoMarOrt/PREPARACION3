@@ -14,7 +14,7 @@ import java.util.Map;
  *
  * @author fer
  */
-public class MapAFichero {
+public class MapAFicheroSINOBJETOS {
     
      public static void generarFichero(String nomFichero, Map<String, String> listaMap) {
 

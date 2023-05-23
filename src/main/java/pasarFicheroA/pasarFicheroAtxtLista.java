@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  * @author fer
  */
-public class pasarFicherotxtLista {
+public class pasarFicheroAtxtLista {
     
     public static List<String> pasarFicheroLista(String nomFichero) {
 
