@@ -13,7 +13,7 @@ import java.util.List;
  *
  * @author fer
  */
-public class ListaAFichero {
+public class ListaAFicheroSINOBJETOS {
     
     public static void generarFichero2(String nomFichero, List<Object> listaVehiculos) { //OBJECT SE SUSTITUYE POR EL OBJETO QUE QUIERA 
 

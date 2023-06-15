@@ -125,7 +125,7 @@ public class LecturaEmpleado {
 
                 for (int i = 0; i < tokens.length; i++) {
 
-                    tokens[i] = tokens[i].replaceAll("\"", ""); //Quito espacios
+                    tokens[i] = tokens[i].replaceAll("\"", ""); 
                 }
 
                 p.setApellido(tokens[0]);
